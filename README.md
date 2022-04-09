@@ -22,16 +22,16 @@ Plays with a goal of less than 1000 are the most likely to meet goal.  Plays wit
 No plays were canceled and I thought formula was wrong.  Had to go back and manually sort the data to confirm.
 
 ## Results
-Louise needs fundraise in May and should keep the funding goal less than 1000.
+For Louise to be successful Louise needs launch her fundraiser in May and should keep the funding goal less than 5000.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The best month to lanuch a fundraiser for Theater is in May. The least successful month to launch a fundrasiser for Theater is in December.
+The best month to launch a fundraiser for Theater is in May. The least successful month to launch a fundraiser for Theater is in December.
 
 - What can you conclude about the Outcomes based on Goals?
-Plays with goals under 5000 are the most likely to succeed.  Goals from 5000 to 25000 have about a 50 percent chance of succeeding.  Goals from 25000 to 35000 and over 50000 have a low percentage of succeeding, but from 35000 to 45000 the success jumps back up with 66 percent chance of succeeding.  However plays with a goal from 45000 to 49999 never succeed.
+Plays with goals under 5000 are the most likely to succeed.  Goals from 5000 to 25000 have about a 50 percent chance of succeeding.  Goals from 25000 to 35000 and over 50000 have a low percentage of succeeding, but from 35000 to 45000 the success jumps back up with 66 percent chance of succeeding.  However, plays with a goal from 45000 to 49999 never succeed.
 
 - What are some limitations of this dataset?
-The total number of projects with high fundraising goals is a very small sample size.  There is no catagory for the plays which may contribute to them being successful. 
+The total number of projects with high fundraising goals is a very small sample size.  Although none of the fundraising from 45000 to 49999 succeeded there was only one.  The smaller number of data points can skew the data. There is no category for the plays which may contribute to them being successful. Breaking the plays into different categories may add more detail on why a play is successful or not.
 
 - What are some other possible tables and/or graphs that we could create?
-Analysis of outcomes based on goals by country.   Analysis of outcomes based on goals by staff pick.
+Analyzing the outcomes based on goals by country.  Some countries may not like plays.  Analyzing the outcomes based on goals by staff pick.  Should Louise be listening to her staff on their picks?
