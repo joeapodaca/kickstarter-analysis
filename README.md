@@ -12,7 +12,7 @@ No plays were canceled and I thought formula was wrong.  Had to go back and manu
 
 ### Analysis of Outcomes Based on Launch Date
 Theater is most successful in May. Theater is least successful in December.
-![Chart of outcomes based on launch date](C:\Users\japodaca\Documents\GitHub\kickstarter-analysis\Theater_Outcomes_vs_Launch.png)
+![Chart of outcomes based on launch date](/assets/images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Plays with a goal of less than 1000 are the most likely to meet goal.  Plays with a goal from 45000 to 49999 never succeed while plays over 500000 have succeeded.
